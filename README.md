@@ -1,6 +1,16 @@
-# OluBlog
+# Olu Blog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
+## Installed packages
+
+Adding blog capabilities with Scully
+
+- npm install @scullyio/init @scullyio/ng-lib @scullyio/scully @scullyio/
+  scully-plugin-puppeteer --force
+- npm i @scullyio/scully-plugin-puppeteer
+
+## Add blog page
+
+ng generate @scullyio/init:markdown --project olu-blog
 
 ## Development server
 
